@@ -1,4 +1,8 @@
-## Hi there 👋
+## olá
+
+Meu nome é Ana Paula e estou cursano o primeiro ano do ensino médio
+
+criei esse perfil para poder postar e divulgar meus projetos feitos nas aulas de pensamento computacional
 
 <!--
 **ana20241/ana20241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
