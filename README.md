@@ -1,6 +1,6 @@
 ## olá 
 
-Meu nome é Ana Paula e estou cursano o primeiro ano do ensino médio
+Meu nome é Ana Paula e estou cursando o primeiro ano do ensino médio
 
 criei esse perfil para poder postar e divulgar meus projetos feitos nas aulas de pensamento computacional
 
